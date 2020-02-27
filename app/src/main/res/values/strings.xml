@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PreguntaDinamica</string>
+    <string name="question">Pregunta:</string>
+    <string name="category">Categoria</string>
+    <string name="type">tipo</string>
+    <string name="difficulty">Dificultad</string>
+    <string name="correct_answer">Corrector</string>
+    <string name="incorrect_answer">Incorrect</string>
+    <string name="pregunta_dinamica">Pregunta Dinamica</string>
+</resources>
